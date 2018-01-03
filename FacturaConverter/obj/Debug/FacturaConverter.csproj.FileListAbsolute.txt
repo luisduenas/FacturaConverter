@@ -1,0 +1,11 @@
+C:\Users\LDUENAS\Documents\Visual Studio 2015\Projects\FacturaConverter\FacturaConverter\obj\Debug\FacturaConverter.csproj.ResolveComReference.cache
+C:\Users\LDUENAS\Documents\Visual Studio 2015\Projects\FacturaConverter\FacturaConverter\bin\Debug\FacturaConverter.exe.config
+C:\Users\LDUENAS\Documents\Visual Studio 2015\Projects\FacturaConverter\FacturaConverter\bin\Debug\FacturaConverter.exe.manifest
+C:\Users\LDUENAS\Documents\Visual Studio 2015\Projects\FacturaConverter\FacturaConverter\bin\Debug\FacturaConverter.application
+C:\Users\LDUENAS\Documents\Visual Studio 2015\Projects\FacturaConverter\FacturaConverter\bin\Debug\FacturaConverter.exe
+C:\Users\LDUENAS\Documents\Visual Studio 2015\Projects\FacturaConverter\FacturaConverter\bin\Debug\FacturaConverter.pdb
+C:\Users\LDUENAS\Documents\Visual Studio 2015\Projects\FacturaConverter\FacturaConverter\obj\Debug\FacturaConverter.exe.manifest
+C:\Users\LDUENAS\Documents\Visual Studio 2015\Projects\FacturaConverter\FacturaConverter\obj\Debug\FacturaConverter.application
+C:\Users\LDUENAS\Documents\Visual Studio 2015\Projects\FacturaConverter\FacturaConverter\obj\Debug\FacturaConverter.exe
+C:\Users\LDUENAS\Documents\Visual Studio 2015\Projects\FacturaConverter\FacturaConverter\obj\Debug\FacturaConverter.pdb
+C:\Users\LDUENAS\Documents\Visual Studio 2015\Projects\FacturaConverter\FacturaConverter\obj\Debug\FacturaConverter.csprojResolveAssemblyReference.cache
